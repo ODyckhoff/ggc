@@ -1,8 +1,8 @@
 <?php
 
-    include('page_head.php');
+    include('inc/page_head.php');
 
 
 
-    include('page_foot.php');
+    include('inc/page_foot.php');
 ?>
